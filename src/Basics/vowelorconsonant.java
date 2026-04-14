@@ -26,7 +26,7 @@ public class vowelorconsonant
         else
             System.out.println(" Not an Alphabet");
 
-        sc.close()       //closing scanner class(not mandatory but good practice)
+        sc.close()  ;     //closing scanner class(not mandatory but good practice)
     }               //end of main method
 }
 
